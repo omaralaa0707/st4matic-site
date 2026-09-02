@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="spectrum" x1="4" y1="8" x2="44" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#57c6f2" />
+      <stop offset="0.35" stop-color="#a06bff" />
+      <stop offset="0.68" stop-color="#ff4a3d" />
+      <stop offset="1" stop-color="#ffa23c" />
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="19.5" stroke="url(#spectrum)" stroke-width="2.4" stroke-linecap="round"
+    stroke-dasharray="94 30.6" transform="rotate(126 24 24)" />
+  <g stroke="url(#spectrum)" stroke-width="2.4" stroke-linecap="round">
+    <line x1="24" y1="9.5" x2="24" y2="13.5" />
+    <line x1="38.5" y1="24" x2="34.5" y2="24" />
+    <line x1="9.5" y1="24" x2="13.5" y2="24" />
+  </g>
+  <line x1="24" y1="24" x2="33.5" y2="15.2" stroke="#f2f0ec" stroke-width="2.6" stroke-linecap="round" />
+  <circle cx="24" cy="24" r="3.1" fill="#f2f0ec" />
+</svg>
