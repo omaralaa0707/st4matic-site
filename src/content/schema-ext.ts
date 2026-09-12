@@ -58,8 +58,8 @@ export type St4Content = SiteContent & {
     downResultLabel: string;
     monthlyResultLabel: string;
     balanceLabel: string;
-    disclaimer: string;
     sourceNote: string;
+    disclaimer: string;
   };
   showroom: {
     eyebrow: string;

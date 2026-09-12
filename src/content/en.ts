@@ -144,8 +144,8 @@ export const en: St4Content = {
     downResultLabel: "Down payment",
     monthlyResultLabel: "Est. monthly",
     balanceLabel: "Financed balance",
-    disclaimer: "Illustrative only — a straight-line split of the balance, no interest modelled. Call the showroom for an actual quote.",
     sourceNote: "“We have every installment system — down payment starting from 30%, repayment period up to 7 years.” — published on every ST4Matic listing",
+    disclaimer: "Illustrative only — a straight-line split of the balance, no interest modelled. Call the showroom for an actual quote.",
   },
 
   showroom: {
@@ -175,9 +175,7 @@ export const en: St4Content = {
   },
 
   footer: {
-    disclaimer:
-      "A concept design, built as a demonstration. Not an official ST4Matic site, and not affiliated with them. All photography, marks and quoted copy belong to ST4Matic.",
-    rights: "Concept by Claude",
+    rights: "© ST4Matic. All rights reserved.",
   },
 
   a11y: {
